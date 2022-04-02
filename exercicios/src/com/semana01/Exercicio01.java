@@ -1,10 +1,10 @@
-package com.company;
+package com.semana01;
 
 import java.util.Locale;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class Exercicio01 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in).useLocale(Locale.US);
