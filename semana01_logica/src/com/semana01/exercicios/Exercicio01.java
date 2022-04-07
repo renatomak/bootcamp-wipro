@@ -1,4 +1,4 @@
-package com.semana01;
+package com.semana01.exercicios;
 
 import java.util.Locale;
 import java.util.Random;

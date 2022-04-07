@@ -1,4 +1,4 @@
-package com.semana01;
+package com.semana01.exercicios;
 
 import java.util.ArrayList;
 import java.util.Locale;
