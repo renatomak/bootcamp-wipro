@@ -9,3 +9,7 @@ O programa conta com mais de 120 horas de aulas presenciais e online, aborda int
 - [x] Introdução ao Java
 - [x] Lógica de programação em Java
 - [x] GitHub
+
+## Semana 02:
+
+- [x] Orientação a Objetos com Java
